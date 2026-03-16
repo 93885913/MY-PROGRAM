@@ -1,0 +1,1214 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link "东方财富网" [ref=e7] [cursor=pointer]:
+            - /url: http://www.eastmoney.com
+            - img "东方财富网" [ref=e8]
+          - link "全球财经快讯" [ref=e9] [cursor=pointer]:
+            - /url: /
+        - generic [ref=e11]:
+          - generic [ref=e12]: "0"
+          - textbox "输入代码、名称或简称" [ref=e14]
+          - button "搜索" [ref=e16] [cursor=pointer]
+      - list [ref=e18]:
+        - listitem [ref=e19]:
+          - link "7*24全球直播" [ref=e20] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e21]:
+          - link "焦点" [ref=e22] [cursor=pointer]:
+            - /url: yw.html
+        - listitem [ref=e23]:
+          - link "股市直播" [ref=e24] [cursor=pointer]:
+            - /url: zhibo.html
+        - listitem [ref=e25]:
+          - link "上市公司" [ref=e26] [cursor=pointer]:
+            - /url: ssgs.html
+        - listitem [ref=e27]:
+          - link "地区" [ref=e28] [cursor=pointer]:
+            - /url: dq.html
+            - text: 地区
+        - listitem [ref=e30]:
+          - link "全球央行" [ref=e31] [cursor=pointer]:
+            - /url: qqyh.html
+            - text: 全球央行
+        - listitem [ref=e33]:
+          - link "经济数据" [ref=e34] [cursor=pointer]:
+            - /url: jjsj.html
+            - text: 经济数据
+        - listitem [ref=e36]:
+          - link "全球股市" [ref=e37] [cursor=pointer]:
+            - /url: qqgs.html
+        - listitem [ref=e38]:
+          - link "商品" [ref=e39] [cursor=pointer]:
+            - /url: sp.html
+        - listitem [ref=e40]:
+          - link "外汇" [ref=e41] [cursor=pointer]:
+            - /url: wh.html
+        - listitem [ref=e42]:
+          - link "债券" [ref=e43] [cursor=pointer]:
+            - /url: zq.html
+        - listitem [ref=e44]:
+          - link "基金" [ref=e45] [cursor=pointer]:
+            - /url: jj.html
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic:
+            - generic [ref=e51]: 大字
+            - generic [ref=e53]: 9秒后刷新
+          - generic [ref=e54]:
+            - generic [ref=e55]: "|"
+            - generic [ref=e61] [cursor=pointer]: 设置
+          - generic [ref=e63]: 输入关键词
+        - img "Loading" [ref=e65]
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e69]: 19:54
+              - generic [ref=e70]:
+                - link "【工信部公布创建国家新型工业化示范区首批城市名单】3月16日，工业和信息化部发布通知，依据《国家新型工业化示范区创建活动工作方案》，经省级人民政府推荐、资料审核、专家评审等程序，确定首批16个创建国家新型工业化示范区城市，现将名单予以公布。[点击查看全文]" [ref=e73] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673309875.html
+                  - generic [ref=e74]: 【工信部公布创建国家新型工业化示范区首批城市名单】3月16日，工业和信息化部发布通知，依据《国家新型工业化示范区创建活动工作方案》，经省级人民政府推荐、资料审核、专家评审等程序，确定首批16个创建国家新型工业化示范区城市，现将名单予以公布。
+                  - text: "[点击查看全文]"
+                - generic [ref=e76]:
+                  - generic [ref=e77] [cursor=pointer]: 评论
+                  - generic [ref=e80] [cursor=pointer]: 分享
+            - generic [ref=e82]:
+              - generic [ref=e83]: 19:48
+              - generic [ref=e84]:
+                - link "【北京市房山区拉网式排查全区医美机构】据了解，房山区相关部门将根据调查取证情况依法依规予以严肃处理，并举一反三，在全区开展医美机构拉网式排查，切实维护消费者合法权益。[点击查看全文]" [ref=e87] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673305631.html
+                  - generic [ref=e88]: 【北京市房山区拉网式排查全区医美机构】据了解，房山区相关部门将根据调查取证情况依法依规予以严肃处理，并举一反三，在全区开展医美机构拉网式排查，切实维护消费者合法权益。
+                  - text: "[点击查看全文]"
+                - generic [ref=e90]:
+                  - generic [ref=e93] [cursor=pointer]: 评论 1
+                  - generic [ref=e95] [cursor=pointer]: 分享
+            - generic [ref=e97]:
+              - generic [ref=e98]: 19:47
+              - generic [ref=e99]:
+                - link "欧盟委员会表示，马斯克旗下X平台已按期缴纳1.2亿欧元罚款。[点击查看全文]" [ref=e102] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673305558.html
+                - generic [ref=e104]:
+                  - generic [ref=e105] [cursor=pointer]: 评论
+                  - generic [ref=e108] [cursor=pointer]: 分享
+            - generic [ref=e110]:
+              - generic [ref=e111]: 19:46
+              - generic [ref=e112]:
+                - link "美财长贝森特表示，海湾原油缺口约为每日1000万至1400万桶。[点击查看全文]" [ref=e115] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673305314.html
+                - generic [ref=e117]:
+                  - generic [ref=e120] [cursor=pointer]: 评论 2
+                  - generic [ref=e122] [cursor=pointer]: 分享
+            - generic [ref=e124]:
+              - generic [ref=e125]: 19:44
+              - generic [ref=e126]:
+                - link "【优必选与西门子工业软件签署战略合作框架协议】近日，优必选与西门子工业软件在深圳正式签署战略合作框架协议。双方此次携手，是优必选冲刺工业人形机器人规模化量产的关键布局。[点击查看全文]" [ref=e129] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673304190.html
+                  - generic [ref=e130]: 【优必选与西门子工业软件签署战略合作框架协议】近日，优必选与西门子工业软件在深圳正式签署战略合作框架协议。双方此次携手，是优必选冲刺工业人形机器人规模化量产的关键布局。
+                  - text: "[点击查看全文]"
+                - generic [ref=e132]:
+                  - generic [ref=e135] [cursor=pointer]: 评论 2
+                  - generic [ref=e137] [cursor=pointer]: 分享
+            - generic [ref=e139]:
+              - generic [ref=e140]: 19:43
+              - generic [ref=e141]:
+                - link "【美国财长：任何应对油价的举措都取决于战争的持续时间】美国财长贝森特称，任何应对油价的举措都取决于战争的持续时间。[点击查看全文]" [ref=e144] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673302450.html
+                  - generic [ref=e145]: 【美国财长：任何应对油价的举措都取决于战争的持续时间】美国财长贝森特称，任何应对油价的举措都取决于战争的持续时间。
+                  - text: "[点击查看全文]"
+                - generic [ref=e147]:
+                  - generic [ref=e150] [cursor=pointer]: 评论 5
+                  - generic [ref=e152] [cursor=pointer]: 分享
+            - generic [ref=e154]:
+              - generic [ref=e155]: 19:39
+              - generic [ref=e156]:
+                - link "【俄外长：俄主张立即停止中东军事行动 愿担任调解人】总台记者获悉，当地时间3月16日，俄罗斯外交部长拉夫罗夫表示，俄罗斯主张立即停止中东地区的军事行动并展开谈判，如有需要，俄罗斯愿担任调解人。[点击查看全文]" [ref=e159] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673300354.html
+                  - generic [ref=e160]: 【俄外长：俄主张立即停止中东军事行动 愿担任调解人】总台记者获悉，当地时间3月16日，俄罗斯外交部长拉夫罗夫表示，俄罗斯主张立即停止中东地区的军事行动并展开谈判，如有需要，俄罗斯愿担任调解人。
+                  - text: "[点击查看全文]"
+                - generic [ref=e162]:
+                  - generic [ref=e165] [cursor=pointer]: 评论 12
+                  - generic [ref=e167] [cursor=pointer]: 分享
+            - generic [ref=e169]:
+              - generic [ref=e170]: 19:38
+              - generic [ref=e171]:
+                - link "【怡合达：股东拟减持不超2.73%公司股份】怡合达(301029.SZ)公告称，公司股东众复晖、众瑞晖计划自公告之日起15个交易日后的3个月内，通过集中竞价或大宗交易方式合计减持公司股份不超过17,285,133股，即不超过公司总股本的2.73%。[点击查看全文]" [ref=e174] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673299741.html
+                  - generic [ref=e175]: 【怡合达：股东拟减持不超2.73%公司股份】怡合达(301029.SZ)公告称，公司股东众复晖、众瑞晖计划自公告之日起15个交易日后的3个月内，通过集中竞价或大宗交易方式合计减持公司股份不超过17,285,133股，即不超过公司总股本的2.73%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e177]:
+                  - generic [ref=e178] [cursor=pointer]: 评论
+                  - generic [ref=e181] [cursor=pointer]: 分享
+            - generic [ref=e183]:
+              - generic [ref=e184]: 19:36
+              - generic [ref=e185]:
+                - link "【英国首相：英国不会被卷入中东冲突更大范围的战争中】总台记者获悉，当地时间16日，英国首相斯塔默在唐宁街发表讲话时表示，英国不会被卷入到中东冲突的更大范围战争中。[点击查看全文]" [ref=e188] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673298448.html
+                  - generic [ref=e189]: 【英国首相：英国不会被卷入中东冲突更大范围的战争中】总台记者获悉，当地时间16日，英国首相斯塔默在唐宁街发表讲话时表示，英国不会被卷入到中东冲突的更大范围战争中。
+                  - text: "[点击查看全文]"
+                - generic [ref=e191]:
+                  - generic [ref=e194] [cursor=pointer]: 评论 2
+                  - generic [ref=e196] [cursor=pointer]: 分享
+            - generic [ref=e198]:
+              - generic [ref=e199]: 19:34
+              - generic [ref=e200]:
+                - link "【高盛：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退】高盛集团经济学家Farouk Soussa表示，如果冲突持续到4月，导致霍尔木兹海峡停航两个月，卡塔尔和科威特今年的国内生产总值（GDP）可能分别萎缩14%。这将是这些国家自上世纪90年代初以来最严重的经济衰退。[点击查看全文]" [ref=e203] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673290591.html
+                  - generic [ref=e204]: 【高盛：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退】高盛集团经济学家Farouk Soussa表示，如果冲突持续到4月，导致霍尔木兹海峡停航两个月，卡塔尔和科威特今年的国内生产总值（GDP）可能分别萎缩14%。这将是这些国家自上世纪90年代初以来最严重的经济衰退。
+                  - text: "[点击查看全文]"
+                - generic [ref=e206]:
+                  - generic [ref=e209] [cursor=pointer]: 评论 3
+                  - generic [ref=e211] [cursor=pointer]: 分享
+            - generic [ref=e213]:
+              - generic [ref=e214]: 19:34
+              - generic [ref=e215]:
+                - link "【李强主持召开国务院全体会议 对落实国务院2026年重点工作进行部署】国务院总理李强3月16日主持召开国务院第十一次全体会议，深入学习贯彻习近平总书记在全国两会期间的重要讲话和全国两会精神，对落实国务院2026年重点工作进行部署。[点击查看全文]" [ref=e218] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673289148.html
+                  - generic [ref=e219]: 【李强主持召开国务院全体会议 对落实国务院2026年重点工作进行部署】国务院总理李强3月16日主持召开国务院第十一次全体会议，深入学习贯彻习近平总书记在全国两会期间的重要讲话和全国两会精神，对落实国务院2026年重点工作进行部署。
+                  - text: "[点击查看全文]"
+                - generic [ref=e221]:
+                  - generic [ref=e224] [cursor=pointer]: 评论 118
+                  - generic [ref=e226] [cursor=pointer]: 分享
+            - generic [ref=e228]:
+              - generic [ref=e229]: 19:34
+              - generic [ref=e230]:
+                - link "【意大利外长：外交途径是解决霍尔木兹海峡局势的正确道路】总台记者获悉，意大利外交部长塔亚尼16日表示，当前，外交途径是解决霍尔木兹海峡局势的正确道路。塔亚尼表示，他认为目前没有任何海军行动可以扩展到霍尔木兹海峡。[点击查看全文]" [ref=e233] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673287748.html
+                  - generic [ref=e234]: 【意大利外长：外交途径是解决霍尔木兹海峡局势的正确道路】总台记者获悉，意大利外交部长塔亚尼16日表示，当前，外交途径是解决霍尔木兹海峡局势的正确道路。塔亚尼表示，他认为目前没有任何海军行动可以扩展到霍尔木兹海峡。
+                  - text: "[点击查看全文]"
+                - generic [ref=e236]:
+                  - generic [ref=e237] [cursor=pointer]: 评论
+                  - generic [ref=e240] [cursor=pointer]: 分享
+            - generic [ref=e242]:
+              - generic [ref=e243]: 19:33
+              - generic [ref=e244]:
+                - link "【西班牙：不考虑参与欧盟提出的霍尔木兹海峡护航行动】总台记者获悉，当地时间3月16日，西班牙国防大臣罗夫莱斯排除了西班牙参与欧盟可能发起的霍尔木兹海峡行动的可能。这项行动提议是由欧盟外交与安全政策代表卡拉斯提出的，旨在保持霍尔木兹海峡的畅通。[点击查看全文]" [ref=e247] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673286636.html
+                  - generic [ref=e248]: 【西班牙：不考虑参与欧盟提出的霍尔木兹海峡护航行动】总台记者获悉，当地时间3月16日，西班牙国防大臣罗夫莱斯排除了西班牙参与欧盟可能发起的霍尔木兹海峡行动的可能。这项行动提议是由欧盟外交与安全政策代表卡拉斯提出的，旨在保持霍尔木兹海峡的畅通。
+                  - text: "[点击查看全文]"
+                - generic [ref=e250]:
+                  - generic [ref=e253] [cursor=pointer]: 评论 5
+                  - generic [ref=e255] [cursor=pointer]: 分享
+            - generic [ref=e257]:
+              - generic [ref=e258]: 19:28
+              - generic [ref=e259]:
+                - link "【金融监管总局：加快健全金融法治 深化金融领域“黑灰产”整治】坚决落实强监管严监管要求。聚焦实质风险、解决实际问题，全面强化“五大监管”。加快健全金融法治，进一步做实分级分类监管，提高监管数字化智能化水平。提升统筹金融消保工作质效，深化金融领域“黑灰产”整治。[点击查看全文]" [ref=e262] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673278043.html
+                  - generic [ref=e263]: 【金融监管总局：加快健全金融法治 深化金融领域“黑灰产”整治】坚决落实强监管严监管要求。聚焦实质风险、解决实际问题，全面强化“五大监管”。加快健全金融法治，进一步做实分级分类监管，提高监管数字化智能化水平。提升统筹金融消保工作质效，深化金融领域“黑灰产”整治。
+                  - text: "[点击查看全文]"
+                - generic [ref=e265]:
+                  - generic [ref=e268] [cursor=pointer]: 评论 2
+                  - generic [ref=e270] [cursor=pointer]: 分享
+            - generic [ref=e272]:
+              - generic [ref=e273]: 19:28
+              - generic [ref=e274]:
+                - link "【金融监管总局：指导金融机构积极支持提振消费专项行动】金融监管总局党委3月16日召开扩大会议，会议强调，不断提升金融服务实体经济质效。做好金融“五篇大文章”，坚持惠民生和促消费、投资于物和投资于人相结合，加大重点领域和薄弱环节金融支持。指导金融机构积极支持提振消费专项行动，强化科技创新全链条全生命周期金融服务，助力新质生产力发展。[点击查看全文]" [ref=e277] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673276889.html
+                  - generic [ref=e278]: 【金融监管总局：指导金融机构积极支持提振消费专项行动】金融监管总局党委3月16日召开扩大会议，会议强调，不断提升金融服务实体经济质效。做好金融“五篇大文章”，坚持惠民生和促消费、投资于物和投资于人相结合，加大重点领域和薄弱环节金融支持。指导金融机构积极支持提振消费专项行动，强化科技创新全链条全生命周期金融服务，助力新质生产力发展。
+                  - text: "[点击查看全文]"
+                - generic [ref=e280]:
+                  - generic [ref=e283] [cursor=pointer]: 评论 10
+                  - generic [ref=e285] [cursor=pointer]: 分享
+            - generic [ref=e287]:
+              - generic [ref=e288]: 19:27
+              - generic [ref=e289]:
+                - link "【金融监管总局：推动国有大型商业银行补充资本 研究多元化补充中小金融机构资本】金融监管总局党委3月16日召开扩大会议，会议强调，切实提高行业高质量发展能力。督促银行保险机构专注主业、错位发展。深入推进地方中小金融机构减量提质、优化布局。持续规范行业秩序，深入整治无序竞争。推动国有大型商业银行补充资本，研究多元化补充中小金融机构资本。[点击查看全文]" [ref=e292] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673276345.html
+                  - generic [ref=e293]: 【金融监管总局：推动国有大型商业银行补充资本 研究多元化补充中小金融机构资本】金融监管总局党委3月16日召开扩大会议，会议强调，切实提高行业高质量发展能力。督促银行保险机构专注主业、错位发展。深入推进地方中小金融机构减量提质、优化布局。持续规范行业秩序，深入整治无序竞争。推动国有大型商业银行补充资本，研究多元化补充中小金融机构资本。
+                  - text: "[点击查看全文]"
+                - generic [ref=e295]:
+                  - generic [ref=e298] [cursor=pointer]: 评论 9
+                  - generic [ref=e300] [cursor=pointer]: 分享
+            - generic [ref=e302]:
+              - generic [ref=e303]: 19:25
+              - generic [ref=e304]:
+                - link "【金融监管总局：加快建立与房地产发展新模式相适应的融资制度】3月16日，金融监管总局党委召开扩大会议。会议强调，系统上下要靠前发力、提质增效，推动各项政策早落地、措施早见效，为“十五五”开好局、起好步提供有力金融支撑。稳妥化解重点领域风险。有力有序有效推进中小金融机构风险化解，牢牢守住不“爆雷”底线。进一步发挥“保交房”白名单制度作用，加快建立与房地产发展新模式相适应的融资制度。依法合规支持融资平台债务风险化解。严防严打严处非法金融活动，坚决守好人民群众“钱袋子”。[点击查看全文]" [ref=e307] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673274692.html
+                  - generic [ref=e308]: 【金融监管总局：加快建立与房地产发展新模式相适应的融资制度】3月16日，金融监管总局党委召开扩大会议。会议强调，系统上下要靠前发力、提质增效，推动各项政策早落地、措施早见效，为“十五五”开好局、起好步提供有力金融支撑。稳妥化解重点领域风险。有力有序有效推进中小金融机构风险化解，牢牢守住不“爆雷”底线。进一步发挥“保交房”白名单制度作用，加快建立与房地产发展新模式相适应的融资制度。依法合规支持融资平台债务风险化解。严防严打严处非法金融活动，坚决守好人民群众“钱袋子”。
+                  - text: "[点击查看全文]"
+                - generic [ref=e310]:
+                  - generic [ref=e313] [cursor=pointer]: 评论 64
+                  - generic [ref=e315] [cursor=pointer]: 分享
+            - generic [ref=e317]:
+              - generic [ref=e318]: 19:25
+              - generic [ref=e319]:
+                - link "【俄称击落超百架乌无人机】俄罗斯国防部今天（3月16日）通报称，莫斯科时间15日23点至16日上午8点，俄防空系统拦截并击毁了145架乌克兰无人机，莫斯科州就有53架，其中有46架飞往莫斯科市。[点击查看全文]" [ref=e322] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673274881.html
+                  - generic [ref=e323]: 【俄称击落超百架乌无人机】俄罗斯国防部今天（3月16日）通报称，莫斯科时间15日23点至16日上午8点，俄防空系统拦截并击毁了145架乌克兰无人机，莫斯科州就有53架，其中有46架飞往莫斯科市。
+                  - text: "[点击查看全文]"
+                - generic [ref=e325]:
+                  - generic [ref=e326] [cursor=pointer]: 评论
+                  - generic [ref=e329] [cursor=pointer]: 分享
+            - generic [ref=e331]:
+              - generic [ref=e332]: 19:25
+              - generic [ref=e333]:
+                - link "【以防长称以军已在黎巴嫩展开地面行动】以色列国防部长办公室16日说，以色列国防部长卡茨宣布以色列国防军已在黎巴嫩展开地面行动，“以消除威胁，保护北部居民”。[点击查看全文]" [ref=e336] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673274345.html
+                  - generic [ref=e337]: 【以防长称以军已在黎巴嫩展开地面行动】以色列国防部长办公室16日说，以色列国防部长卡茨宣布以色列国防军已在黎巴嫩展开地面行动，“以消除威胁，保护北部居民”。
+                  - text: "[点击查看全文]"
+                - generic [ref=e339]:
+                  - generic [ref=e342] [cursor=pointer]: 评论 3
+                  - generic [ref=e344] [cursor=pointer]: 分享
+            - generic [ref=e346]:
+              - generic [ref=e347]: 19:22
+              - generic [ref=e348]:
+                - link "【福元医药：双氯芬酸钠双释放肠溶胶囊获药品注册证书】福元医药(601089)3月16日公告，公司收到了国家药监局颁发的双氯芬酸钠双释放肠溶胶囊（规格：75mg）药品注册证书，批准该药品生产。[点击查看全文]" [ref=e351] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673273582.html
+                  - generic [ref=e352]: 【福元医药：双氯芬酸钠双释放肠溶胶囊获药品注册证书】福元医药(601089)3月16日公告，公司收到了国家药监局颁发的双氯芬酸钠双释放肠溶胶囊（规格：75mg）药品注册证书，批准该药品生产。
+                  - text: "[点击查看全文]"
+                - generic [ref=e353]:
+                  - link "福元医药 0.65%" [ref=e356] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/1.601089
+                    - text: 福元医药 0.65%
+                  - generic [ref=e358]:
+                    - generic [ref=e359] [cursor=pointer]: 评论
+                    - generic [ref=e362] [cursor=pointer]: 分享
+            - generic [ref=e364]:
+              - generic [ref=e365]: 19:22
+              - generic [ref=e366]:
+                - link "【零跑汽车2025年净利润达5.4亿元 首次实现全年盈利】3月16日，零跑汽车发布的2025年业绩公告显示，公司2025年收入647.3亿元，较2024年同期的321.6亿元增长101.3%。增长主要由于整车及备件交付量的增加。[点击查看全文]" [ref=e369] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673272863.html
+                  - generic [ref=e370]: 【零跑汽车2025年净利润达5.4亿元 首次实现全年盈利】3月16日，零跑汽车发布的2025年业绩公告显示，公司2025年收入647.3亿元，较2024年同期的321.6亿元增长101.3%。增长主要由于整车及备件交付量的增加。
+                  - text: "[点击查看全文]"
+                - generic [ref=e371]:
+                  - link "零跑汽车 0.91%" [ref=e374] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/116.09863
+                    - text: 零跑汽车 0.91%
+                  - generic [ref=e376]:
+                    - generic [ref=e379] [cursor=pointer]: 评论 3
+                    - generic [ref=e381] [cursor=pointer]: 分享
+            - generic [ref=e383]:
+              - generic [ref=e384]: 19:20
+              - generic [ref=e385]:
+                - link "【匈牙利外长：乌方未重启“友谊”输油管道是出于政治原因】总台记者获悉，当地时间16日，匈牙利外长西雅尔多在布鲁塞尔表示，乌克兰方面拒绝参加原定于当天与匈牙利和斯洛伐克能源部长举行的三方磋商，并称乌方未重启“友谊”输油管道是出于政治原因。[点击查看全文]" [ref=e388] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673271670.html
+                  - generic [ref=e389]: 【匈牙利外长：乌方未重启“友谊”输油管道是出于政治原因】总台记者获悉，当地时间16日，匈牙利外长西雅尔多在布鲁塞尔表示，乌克兰方面拒绝参加原定于当天与匈牙利和斯洛伐克能源部长举行的三方磋商，并称乌方未重启“友谊”输油管道是出于政治原因。
+                  - text: "[点击查看全文]"
+                - generic [ref=e391]:
+                  - generic [ref=e392] [cursor=pointer]: 评论
+                  - generic [ref=e395] [cursor=pointer]: 分享
+            - generic [ref=e397]:
+              - generic [ref=e398]: 19:18
+              - generic [ref=e399]:
+                - link "【三角防务：拟与多方设立卫星在轨交付合资公司】三角防务(300775.SZ)公告称，公司拟与西安西测测试技术股份有限公司、西安睿投能源科技有限公司及陕西空天动力研究院有限公司设立一家集卫星设计、运载发射、在轨测控及数据服务为一体的卫星在轨交付合资公司，合资公司注册资本为5.00亿元（暂定）。其中，三角防务出资2.00亿元，占注册资本的40.00%。[点击查看全文]" [ref=e402] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673270367.html
+                  - generic [ref=e403]: 【三角防务：拟与多方设立卫星在轨交付合资公司】三角防务(300775.SZ)公告称，公司拟与西安西测测试技术股份有限公司、西安睿投能源科技有限公司及陕西空天动力研究院有限公司设立一家集卫星设计、运载发射、在轨测控及数据服务为一体的卫星在轨交付合资公司，合资公司注册资本为5.00亿元（暂定）。其中，三角防务出资2.00亿元，占注册资本的40.00%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e405]:
+                  - generic [ref=e408] [cursor=pointer]: 评论 6
+                  - generic [ref=e410] [cursor=pointer]: 分享
+            - generic [ref=e412]:
+              - generic [ref=e413]: 19:18
+              - generic [ref=e414]:
+                - link "【“周期”不存在了？涨价或成新常态 存储多重利好发力】周一，存储概念大爆发，金太阳、朗科科技、雅创电子等20CM涨停；德明利、兆易创新等涨停。[点击查看全文]" [ref=e417] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673272272.html
+                  - generic [ref=e418]: 【“周期”不存在了？涨价或成新常态 存储多重利好发力】周一，存储概念大爆发，金太阳、朗科科技、雅创电子等20CM涨停；德明利、兆易创新等涨停。
+                  - text: "[点击查看全文]"
+                - generic [ref=e420]:
+                  - generic [ref=e423] [cursor=pointer]: 评论 21
+                  - generic [ref=e425] [cursor=pointer]: 分享
+            - generic [ref=e427]:
+              - generic [ref=e428]: 19:16
+              - generic [ref=e429]:
+                - link "阿联酋国有石油巨头阿布扎比国家石油公司被迫实施大范围停产，该国每日原油产量下降超过一半。[点击查看全文]" [ref=e432] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673270150.html
+                - generic [ref=e434]:
+                  - generic [ref=e437] [cursor=pointer]: 评论 109
+                  - generic [ref=e439] [cursor=pointer]: 分享
+            - generic [ref=e441]:
+              - generic [ref=e442]: 19:13
+              - generic [ref=e443]:
+                - link "【1-2月江苏外贸进出口同比增长19.7%】前2个月，江苏省外贸进出口总值1.03万亿元，较去年同期（下同）增长19.7%，增幅较全国高1.4个百分点，占同期我国进出口总值的13.4%。其中，出口6817.5亿元，增长20.3%；进口3523亿元，增长18.7%。[点击查看全文]" [ref=e446] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673268911.html
+                  - generic [ref=e447]: 【1-2月江苏外贸进出口同比增长19.7%】前2个月，江苏省外贸进出口总值1.03万亿元，较去年同期（下同）增长19.7%，增幅较全国高1.4个百分点，占同期我国进出口总值的13.4%。其中，出口6817.5亿元，增长20.3%；进口3523亿元，增长18.7%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e449]:
+                  - generic [ref=e452] [cursor=pointer]: 评论 4
+                  - generic [ref=e454] [cursor=pointer]: 分享
+            - generic [ref=e456]:
+              - generic [ref=e457]: 19:11
+              - generic [ref=e458]:
+                - link "【南亚新材：拟9000万元至1.8亿元回购股份】南亚新材3月16日公告，公司拟9000万元至1.8亿元回购股份用于实施员工持股计划或股权激励，回购价格不超过147元/股（含）。[点击查看全文]" [ref=e461] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673267694.html
+                  - generic [ref=e462]: 【南亚新材：拟9000万元至1.8亿元回购股份】南亚新材3月16日公告，公司拟9000万元至1.8亿元回购股份用于实施员工持股计划或股权激励，回购价格不超过147元/股（含）。
+                  - text: "[点击查看全文]"
+                - generic [ref=e463]:
+                  - link "南亚新材 4.56%" [ref=e466] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/1.688519
+                    - text: 南亚新材 4.56%
+                  - generic [ref=e468]:
+                    - generic [ref=e469] [cursor=pointer]: 评论
+                    - generic [ref=e472] [cursor=pointer]: 分享
+            - generic [ref=e474]:
+              - generic [ref=e475]: 19:10
+              - generic [ref=e476]:
+                - link "【复星医药：控股子公司药品获临床试验批准】复星医药(600196)3月16日公告，控股子公司上海复宏汉霖生物技术股份有限公司及其控股子公司收到国家药监局关于同意HLX07联合斯鲁利单抗注射液和化疗用于晚期鳞状非小细胞肺癌治疗开展临床试验的批准。[点击查看全文]" [ref=e479] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673267267.html
+                  - generic [ref=e480]: 【复星医药：控股子公司药品获临床试验批准】复星医药(600196)3月16日公告，控股子公司上海复宏汉霖生物技术股份有限公司及其控股子公司收到国家药监局关于同意HLX07联合斯鲁利单抗注射液和化疗用于晚期鳞状非小细胞肺癌治疗开展临床试验的批准。
+                  - text: "[点击查看全文]"
+                - generic [ref=e482]:
+                  - generic [ref=e485] [cursor=pointer]: 评论 1
+                  - generic [ref=e487] [cursor=pointer]: 分享
+            - generic [ref=e489]:
+              - generic [ref=e490]: 19:08
+              - generic [ref=e491]:
+                - link "【国航、东航、南航发布公告：机票买贵了可免费退】日前，中国国际航空、中国东方航空、中国南方航空发布维护旅客权益公告，推出票价波动免费退票政策。[点击查看全文]" [ref=e494] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673266296.html
+                  - generic [ref=e495]: 【国航、东航、南航发布公告：机票买贵了可免费退】日前，中国国际航空、中国东方航空、中国南方航空发布维护旅客权益公告，推出票价波动免费退票政策。
+                  - text: "[点击查看全文]"
+                - generic [ref=e496]:
+                  - generic [ref=e497]:
+                    - link "中国国航 -2.17%" [ref=e499] [cursor=pointer]:
+                      - /url: //quote.eastmoney.com/unify/r/1.601111
+                      - text: 中国国航 -2.17%
+                    - link "中国国航 0.37%" [ref=e502] [cursor=pointer]:
+                      - /url: //quote.eastmoney.com/unify/r/116.00753
+                      - text: 中国国航 0.37%
+                  - generic [ref=e504]:
+                    - generic [ref=e507] [cursor=pointer]: 评论 2
+                    - generic [ref=e509] [cursor=pointer]: 分享
+            - generic [ref=e511]:
+              - generic [ref=e512]: 19:08
+              - generic [ref=e513]:
+                - link "【昭衍新药：股东拟合计减持公司不超4.1%股份】昭衍新药(603127)3月16日公告，公司股东顾晓磊及其一致行动人顾美芳拟通过上海证券交易所以集中竞价的方式合计减持3074.25万股，占公司当前总股本的4.1%。[点击查看全文]" [ref=e516] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673266795.html
+                  - generic [ref=e517]: 【昭衍新药：股东拟合计减持公司不超4.1%股份】昭衍新药(603127)3月16日公告，公司股东顾晓磊及其一致行动人顾美芳拟通过上海证券交易所以集中竞价的方式合计减持3074.25万股，占公司当前总股本的4.1%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e518]:
+                  - generic [ref=e519]:
+                    - link "昭衍新药 0.52%" [ref=e521] [cursor=pointer]:
+                      - /url: //quote.eastmoney.com/unify/r/1.603127
+                      - text: 昭衍新药 0.52%
+                    - link "昭衍新药 -2.26%" [ref=e524] [cursor=pointer]:
+                      - /url: //quote.eastmoney.com/unify/r/116.06127
+                      - text: 昭衍新药 -2.26%
+                  - generic [ref=e526]:
+                    - generic [ref=e529] [cursor=pointer]: 评论 4
+                    - generic [ref=e531] [cursor=pointer]: 分享
+            - generic [ref=e533]:
+              - generic [ref=e534]: 19:08
+              - generic [ref=e535]:
+                - link "【特锐德：中标一风电项目预装式变电站带量采购 金额约1.5亿元】特锐德(300001)3月16日公告，近日，中国石油招标投标网发布了青海油田海西200万千瓦风电项目预装式变电站带量采购中标结果公告，公司为该项目中标人，中标金额约1.5亿元。目前，公司尚未收到招标人或相关代理机构发给公司的中标通知书，项目金额需根据后续实际执行情况确定。[点击查看全文]" [ref=e538] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673266381.html
+                  - generic [ref=e539]: 【特锐德：中标一风电项目预装式变电站带量采购 金额约1.5亿元】特锐德(300001)3月16日公告，近日，中国石油招标投标网发布了青海油田海西200万千瓦风电项目预装式变电站带量采购中标结果公告，公司为该项目中标人，中标金额约1.5亿元。目前，公司尚未收到招标人或相关代理机构发给公司的中标通知书，项目金额需根据后续实际执行情况确定。
+                  - text: "[点击查看全文]"
+                - generic [ref=e541]:
+                  - generic [ref=e544] [cursor=pointer]: 评论 1
+                  - generic [ref=e546] [cursor=pointer]: 分享
+            - generic [ref=e548]:
+              - generic [ref=e549]: 19:00
+              - generic [ref=e550]:
+                - link "【德国：美以伊冲突与北约无关】总台记者获悉，德国政府发言人斯特凡·科内柳斯当地时间16日在柏林表示，美以伊冲突与北约无关。[点击查看全文]" [ref=e553] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673259173.html
+                  - generic [ref=e554]: 【德国：美以伊冲突与北约无关】总台记者获悉，德国政府发言人斯特凡·科内柳斯当地时间16日在柏林表示，美以伊冲突与北约无关。
+                  - text: "[点击查看全文]"
+                - generic [ref=e556]:
+                  - generic [ref=e559] [cursor=pointer]: 评论 31
+                  - generic [ref=e561] [cursor=pointer]: 分享
+            - generic [ref=e563]:
+              - generic [ref=e564]: 18:59
+              - generic [ref=e565]:
+                - link "【浙江医药：国投高科拟减持公司不超1%股份】浙江医药3月16日公告，公司持股15.61%国投高科因自身经营发展需要，计划通过集中竞价交易方式合计减持数量不超过961.64万股，即不超过公司总股本的1%。[点击查看全文]" [ref=e568] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673260782.html
+                  - generic [ref=e569]: 【浙江医药：国投高科拟减持公司不超1%股份】浙江医药3月16日公告，公司持股15.61%国投高科因自身经营发展需要，计划通过集中竞价交易方式合计减持数量不超过961.64万股，即不超过公司总股本的1%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e570]:
+                  - link "浙江医药 -3.49%" [ref=e573] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/1.600216
+                    - text: 浙江医药 -3.49%
+                  - generic [ref=e575]:
+                    - generic [ref=e576] [cursor=pointer]: 评论
+                    - generic [ref=e579] [cursor=pointer]: 分享
+            - generic [ref=e581]:
+              - generic [ref=e582]: 18:59
+              - generic [ref=e583]:
+                - link "【中国信通院：联合高校发现OpenClaw高危漏洞并协助快速修复】据中国信通院消息，中国信息通信研究院近期与上海交通大学、南京大学组成的联合研究团队，对开源自主智能体框架OpenClaw进行了深度安全审计，通过静态分析与动态实战测试，发现并验证了一项危害严重的LLM驱动型命令注入漏洞。[点击查看全文]" [ref=e586] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673258811.html
+                  - generic [ref=e587]: 【中国信通院：联合高校发现OpenClaw高危漏洞并协助快速修复】据中国信通院消息，中国信息通信研究院近期与上海交通大学、南京大学组成的联合研究团队，对开源自主智能体框架OpenClaw进行了深度安全审计，通过静态分析与动态实战测试，发现并验证了一项危害严重的LLM驱动型命令注入漏洞。
+                  - text: "[点击查看全文]"
+                - generic [ref=e589]:
+                  - generic [ref=e592] [cursor=pointer]: 评论 9
+                  - generic [ref=e594] [cursor=pointer]: 分享
+            - generic [ref=e596]:
+              - generic [ref=e597]: 18:55
+              - generic [ref=e598]:
+                - link "【阿里成立Token Hub事业群 “悟空事业部”首度曝光剑指B端AI】记者获悉，阿里巴巴今日成立AlibabaTokenHub（ATH）事业群，由CEO吴泳铭直接负责，全面推进AI战略落地。神秘的“悟空事业部”在此次调整中首度曝光，定位于打造B端AI原生工作平台。这意味着，除C端的千问APP之外，阿里巴巴正计划将大模型能力深度融入企业工作流，重点发力B端AI应用市场。[点击查看全文]" [ref=e601] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673257882.html
+                  - generic [ref=e602]: 【阿里成立Token Hub事业群 “悟空事业部”首度曝光剑指B端AI】记者获悉，阿里巴巴今日成立AlibabaTokenHub（ATH）事业群，由CEO吴泳铭直接负责，全面推进AI战略落地。神秘的“悟空事业部”在此次调整中首度曝光，定位于打造B端AI原生工作平台。这意味着，除C端的千问APP之外，阿里巴巴正计划将大模型能力深度融入企业工作流，重点发力B端AI应用市场。
+                  - text: "[点击查看全文]"
+                - generic [ref=e604]:
+                  - generic [ref=e607] [cursor=pointer]: 评论 38
+                  - generic [ref=e609] [cursor=pointer]: 分享
+            - generic [ref=e611]:
+              - generic [ref=e612]: 18:53
+              - generic [ref=e613]:
+                - link "【微芯生物：西格列他钠二甲双胍缓释片获药物临床试验批准通知书】微芯生物(688321)3月16日公告，公司及全资子公司成都微芯药业有限公司近日收到国家药监局签发的《药物临床试验批准通知书》，同意公司产品西格列他钠二甲双胍缓释片开展临床试验。[点击查看全文]" [ref=e616] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673256566.html
+                  - generic [ref=e617]: 【微芯生物：西格列他钠二甲双胍缓释片获药物临床试验批准通知书】微芯生物(688321)3月16日公告，公司及全资子公司成都微芯药业有限公司近日收到国家药监局签发的《药物临床试验批准通知书》，同意公司产品西格列他钠二甲双胍缓释片开展临床试验。
+                  - text: "[点击查看全文]"
+                - generic [ref=e619]:
+                  - generic [ref=e622] [cursor=pointer]: 评论 1
+                  - generic [ref=e624] [cursor=pointer]: 分享
+            - generic [ref=e626]:
+              - generic [ref=e627]: 18:53
+              - generic [ref=e628]:
+                - link "【湘邮科技：因涉嫌信息披露违法违规被证监会立案调查】湘邮科技(600476.SH)公告称，公司近日收到中国证监会出具的《立案告知书》，因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。目前公司各项经营活动和业务均正常开展，将积极配合调查并及时履行信息披露义务。[点击查看全文]" [ref=e631] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673256043.html
+                  - generic [ref=e632]: 【湘邮科技：因涉嫌信息披露违法违规被证监会立案调查】湘邮科技(600476.SH)公告称，公司近日收到中国证监会出具的《立案告知书》，因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。目前公司各项经营活动和业务均正常开展，将积极配合调查并及时履行信息披露义务。
+                  - text: "[点击查看全文]"
+                - generic [ref=e634]:
+                  - generic [ref=e637] [cursor=pointer]: 评论 11
+                  - generic [ref=e639] [cursor=pointer]: 分享
+            - generic [ref=e641]:
+              - generic [ref=e642]: 18:51
+              - generic [ref=e643]:
+                - link "德国发言人称，德国不会在伊朗战争中提供军事支持。[点击查看全文]" [ref=e646] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673254674.html
+                - generic [ref=e648]:
+                  - generic [ref=e651] [cursor=pointer]: 评论 5
+                  - generic [ref=e653] [cursor=pointer]: 分享
+            - generic [ref=e655]:
+              - generic [ref=e656]: 18:48
+              - generic [ref=e657]:
+                - link "阿里巴巴美股盘前拉升，现涨超2%。[点击查看全文]" [ref=e660] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673254483.html
+                - generic [ref=e662]:
+                  - generic [ref=e663] [cursor=pointer]: 评论
+                  - generic [ref=e666] [cursor=pointer]: 分享
+            - generic [ref=e668]:
+              - generic [ref=e669]: 18:48
+              - generic [ref=e670]:
+                - link "【CINNO Research：成本与需求双重挤压 3月手机面板价格延续跌势】CINNO Research分析称，进入3月，春节假期效应消退，手机面板市场仍面临严峻挑战。[点击查看全文]" [ref=e673] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673252025.html
+                  - generic [ref=e674]: 【CINNO Research：成本与需求双重挤压 3月手机面板价格延续跌势】CINNO Research分析称，进入3月，春节假期效应消退，手机面板市场仍面临严峻挑战。
+                  - text: "[点击查看全文]"
+                - generic [ref=e676]:
+                  - generic [ref=e677] [cursor=pointer]: 评论
+                  - generic [ref=e680] [cursor=pointer]: 分享
+            - generic [ref=e682]:
+              - generic [ref=e683]: 18:47
+              - generic [ref=e684]:
+                - link "消息人士称，阿联酋富查伊拉港石油装运恢复。[点击查看全文]" [ref=e687] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673251355.html
+                - generic [ref=e689]:
+                  - generic [ref=e692] [cursor=pointer]: 评论 14
+                  - generic [ref=e694] [cursor=pointer]: 分享
+            - generic [ref=e696]:
+              - generic [ref=e697]: 18:42
+              - generic [ref=e698]:
+                - link "印尼正考虑对大宗商品征收“暴利税”。[点击查看全文]" [ref=e701] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673249121.html
+                - generic [ref=e703]:
+                  - generic [ref=e706] [cursor=pointer]: 评论 7
+                  - generic [ref=e708] [cursor=pointer]: 分享
+            - generic [ref=e710]:
+              - generic [ref=e711]: 18:42
+              - generic [ref=e712]:
+                - link "【汇宇制药股东王晓鹏计划减持不超1271万股 占总股本的3%】3月16日，汇宇制药（688553）发布公告，股东王晓鹏因自身资金需求，计划在2026年4月8日至2026年7月6日期间，通过集中竞价和大宗交易方式合计减持不超过1271万股，约占公司总股本的3%。[点击查看全文]" [ref=e715] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673250428.html
+                  - generic [ref=e716]: 【汇宇制药股东王晓鹏计划减持不超1271万股 占总股本的3%】3月16日，汇宇制药（688553）发布公告，股东王晓鹏因自身资金需求，计划在2026年4月8日至2026年7月6日期间，通过集中竞价和大宗交易方式合计减持不超过1271万股，约占公司总股本的3%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e717]:
+                  - link "汇宇制药-W 1.13%" [ref=e720] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/1.688553
+                    - text: 汇宇制药-W 1.13%
+                  - generic [ref=e722]:
+                    - generic [ref=e723] [cursor=pointer]: 评论
+                    - generic [ref=e726] [cursor=pointer]: 分享
+            - generic [ref=e728]:
+              - generic [ref=e729]: 18:42
+              - generic [ref=e730]:
+                - link "【徕木股份控股股东方培教计划减持不超过1280万股 占总股本的3%】3月16日，徕木股份（603633）发布公告，控股股东方培教因自身资金需要，计划在2026年4月8日至2026年7月7日期间，通过集中竞价和大宗交易方式合计减持不超过1280万股，约占公司总股本的3%。[点击查看全文]" [ref=e733] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673250160.html
+                  - generic [ref=e734]: 【徕木股份控股股东方培教计划减持不超过1280万股 占总股本的3%】3月16日，徕木股份（603633）发布公告，控股股东方培教因自身资金需要，计划在2026年4月8日至2026年7月7日期间，通过集中竞价和大宗交易方式合计减持不超过1280万股，约占公司总股本的3%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e735]:
+                  - link "徕木股份 0.48%" [ref=e738] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/1.603633
+                    - text: 徕木股份 0.48%
+                  - generic [ref=e740]:
+                    - generic [ref=e743] [cursor=pointer]: 评论 3
+                    - generic [ref=e745] [cursor=pointer]: 分享
+            - generic [ref=e747]:
+              - generic [ref=e748]: 18:42
+              - generic [ref=e749]:
+                - link "【航天智造：中国乐凯拟减持不超1%公司股份】3月16日，航天智造（300446）发布公告，控股股东一致行动人中国乐凯集团有限公司计划减持不超过845万股，约占公司总股本的1%。[点击查看全文]" [ref=e752] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673249351.html
+                  - generic [ref=e753]: 【航天智造：中国乐凯拟减持不超1%公司股份】3月16日，航天智造（300446）发布公告，控股股东一致行动人中国乐凯集团有限公司计划减持不超过845万股，约占公司总股本的1%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e754]:
+                  - link "航天智造 0.23%" [ref=e757] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/0.300446
+                    - text: 航天智造 0.23%
+                  - generic [ref=e759]:
+                    - generic [ref=e762] [cursor=pointer]: 评论 6
+                    - generic [ref=e764] [cursor=pointer]: 分享
+            - generic [ref=e766]:
+              - generic [ref=e767]: 18:41
+              - generic [ref=e768]:
+                - link "【星环科技：股东林芝利创拟减持不超1%公司股份】星环科技(688031.SH)公告称，持股5%以上股东林芝利创信息技术有限公司拟减持不超过121万股，占公司总股本的1.00%。[点击查看全文]" [ref=e771] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673248146.html
+                  - generic [ref=e772]: 【星环科技：股东林芝利创拟减持不超1%公司股份】星环科技(688031.SH)公告称，持股5%以上股东林芝利创信息技术有限公司拟减持不超过121万股，占公司总股本的1.00%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e774]:
+                  - generic [ref=e777] [cursor=pointer]: 评论 3
+                  - generic [ref=e779] [cursor=pointer]: 分享
+            - generic [ref=e781]:
+              - generic [ref=e782]: 18:41
+              - generic [ref=e783]:
+                - link "【以军称监测到伊朗发射导弹 多地拉响警报】以色列多地16日午间拉响防空警报，要求民众立即进入避难场所。以色列国防军称监测到伊朗发射导弹。新华社记者在耶路撒冷听到防空拦截弹升空的呼啸声，随后传来多声巨响。[点击查看全文]" [ref=e786] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673248043.html
+                  - generic [ref=e787]: 【以军称监测到伊朗发射导弹 多地拉响警报】以色列多地16日午间拉响防空警报，要求民众立即进入避难场所。以色列国防军称监测到伊朗发射导弹。新华社记者在耶路撒冷听到防空拦截弹升空的呼啸声，随后传来多声巨响。
+                  - text: "[点击查看全文]"
+                - generic [ref=e789]:
+                  - generic [ref=e792] [cursor=pointer]: 评论 7
+                  - generic [ref=e794] [cursor=pointer]: 分享
+            - generic [ref=e796]:
+              - generic [ref=e797]: 18:40
+              - generic [ref=e798]:
+                - link "【伊朗称逮捕500名间谍】据多家伊朗媒体日前报道，伊朗逮捕了500名涉嫌为敌方和反伊朗媒体传递情报的间谍。[点击查看全文]" [ref=e801] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673247036.html
+                  - generic [ref=e802]: 【伊朗称逮捕500名间谍】据多家伊朗媒体日前报道，伊朗逮捕了500名涉嫌为敌方和反伊朗媒体传递情报的间谍。
+                  - text: "[点击查看全文]"
+                - generic [ref=e804]:
+                  - generic [ref=e807] [cursor=pointer]: 评论 20
+                  - generic [ref=e809] [cursor=pointer]: 分享
+            - generic [ref=e811]:
+              - generic [ref=e812]: 18:39
+              - generic [ref=e813]:
+                - link "【2连板赤天化：当前公司甲醇产品未开展对外出口销售业务】赤天化(600227.SH)公告称，近期公司化工产品甲醇的市场价格略有上涨，化工产品价格本身具有周期性和波动性特征，后续产品价格波动的可持续性具有不确定性，当前公司甲醇产品未开展对外出口销售业务，市场需求整体稳定，短期不会对公司业绩产生重大影响。[点击查看全文]" [ref=e816] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673246785.html
+                  - generic [ref=e817]: 【2连板赤天化：当前公司甲醇产品未开展对外出口销售业务】赤天化(600227.SH)公告称，近期公司化工产品甲醇的市场价格略有上涨，化工产品价格本身具有周期性和波动性特征，后续产品价格波动的可持续性具有不确定性，当前公司甲醇产品未开展对外出口销售业务，市场需求整体稳定，短期不会对公司业绩产生重大影响。
+                  - text: "[点击查看全文]"
+                - generic [ref=e819]:
+                  - generic [ref=e822] [cursor=pointer]: 评论 11
+                  - generic [ref=e824] [cursor=pointer]: 分享
+            - generic [ref=e826]:
+              - generic [ref=e827]: 18:38
+              - generic [ref=e828]:
+                - link "【中鼎股份合资公司首台全尺寸人形机器人正式下线】近日，合肥鼎力科兴智能机器人有限公司首台全尺寸人形机器人正式下线。股权结构显示，鼎力科兴由中鼎股份下属公司安徽睿思博机器人科技有限公司与深圳逐际动力科技有限公司、合肥柔性科天机器人材料有限公司合资设立，其中睿思博出资比例为60%。[点击查看全文]" [ref=e831] [cursor=pointer]:
+                  - /url: //finance.eastmoney.com/a/202603163673245753.html
+                  - generic [ref=e832]: 【中鼎股份合资公司首台全尺寸人形机器人正式下线】近日，合肥鼎力科兴智能机器人有限公司首台全尺寸人形机器人正式下线。股权结构显示，鼎力科兴由中鼎股份下属公司安徽睿思博机器人科技有限公司与深圳逐际动力科技有限公司、合肥柔性科天机器人材料有限公司合资设立，其中睿思博出资比例为60%。
+                  - text: "[点击查看全文]"
+                - generic [ref=e833]:
+                  - link "中鼎股份 -0.52%" [ref=e836] [cursor=pointer]:
+                    - /url: //quote.eastmoney.com/unify/r/0.000887
+                    - text: 中鼎股份 -0.52%
+                  - generic [ref=e838]:
+                    - generic [ref=e841] [cursor=pointer]: 评论 8
+                    - generic [ref=e843] [cursor=pointer]: 分享
+          - generic [ref=e845] [cursor=pointer]: 点击加载更多
+      - generic [ref=e846]:
+        - generic [ref=e847]:
+          - generic [ref=e848]:
+            - list:
+              - listitem [ref=e849]:
+                - link "亚太股市" [ref=e850] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist.html#global_asia
+              - listitem [ref=e851]:
+                - link "美洲股市" [ref=e852] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist.html#global_america
+              - listitem [ref=e853]:
+                - link "欧洲股市" [ref=e854] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist.html#global_euro
+            - link "进入行情中心" [ref=e856] [cursor=pointer]:
+              - /url: http://quote.eastmoney.com/center/
+          - generic [ref=e858]:
+            - generic [ref=e859]:
+              - link [ref=e860] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/100.FTSE
+                - img [ref=e861]
+              - link [ref=e862] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/100.GDAXI
+                - img [ref=e863]
+              - link [ref=e864] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/100.FCHI
+                - img [ref=e865]
+              - link [ref=e866] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/100.IBEX
+                - img [ref=e867]
+            - generic [ref=e868]:
+              - generic [ref=e869]:
+                - heading "欧洲股市" [level=3] [ref=e870]:
+                  - link "欧洲股市" [ref=e871] [cursor=pointer]:
+                    - /url: http://quote.eastmoney.com/center/gridlist.html#global_euro
+                - link "更多" [ref=e873] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist.html#global_euro
+              - generic [ref=e874]:
+                - table [ref=e876]:
+                  - rowgroup [ref=e877]:
+                    - row "指数名称 最新价 涨跌额 涨跌幅 振幅" [ref=e878]:
+                      - cell "指数名称" [ref=e879]
+                      - cell "最新价" [ref=e880]
+                      - cell "涨跌额" [ref=e881]
+                      - cell "涨跌幅" [ref=e882]
+                      - cell "振幅" [ref=e883]
+                  - rowgroup [ref=e884]:
+                    - row "英国富时100 10308.14 46.99 0.46% 0.58%" [ref=e885]:
+                      - cell "英国富时100" [ref=e886]:
+                        - img [ref=e887]
+                        - link "英国富时100" [ref=e888] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.FTSE
+                      - cell "10308.14" [ref=e889]
+                      - cell "46.99" [ref=e890]
+                      - cell "0.46%" [ref=e891]
+                      - cell "0.58%" [ref=e892]
+                    - row "希腊雅典ASE 2119.37 -13.19 -0.62% 1.26%" [ref=e893]:
+                      - cell "希腊雅典ASE" [ref=e894]:
+                        - img [ref=e895]
+                        - link "希腊雅典ASE" [ref=e896] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.ASE
+                      - cell "2119.37" [ref=e897]
+                      - cell "-13.19" [ref=e898]
+                      - cell "-0.62%" [ref=e899]
+                      - cell "1.26%" [ref=e900]
+                    - row "俄罗斯RTS 1125.80 -1.90 -0.17% 0.84%" [ref=e901]:
+                      - cell "俄罗斯RTS" [ref=e902]:
+                        - img [ref=e903]
+                        - link "俄罗斯RTS" [ref=e904] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.RTS
+                      - cell "1125.80" [ref=e905]
+                      - cell "-1.90" [ref=e906]
+                      - cell "-0.17%" [ref=e907]
+                      - cell "0.84%" [ref=e908]
+                    - row "瑞典OMXSPI 3021.48 2.76 0.09% 0.87%" [ref=e909]:
+                      - cell "瑞典OMXSPI" [ref=e910]:
+                        - img [ref=e911]
+                        - link "瑞典OMXSPI" [ref=e912] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.OMXSPI
+                      - cell "3021.48" [ref=e913]
+                      - cell "2.76" [ref=e914]
+                      - cell "0.09%" [ref=e915]
+                      - cell "0.87%" [ref=e916]
+                    - row "冰岛ICEX 2108.62 -20.46 -0.96% 1.04%" [ref=e917]:
+                      - cell "冰岛ICEX" [ref=e918]:
+                        - img [ref=e919]
+                        - link "冰岛ICEX" [ref=e920] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.ICEXI
+                      - cell "2108.62" [ref=e921]
+                      - cell "-20.46" [ref=e922]
+                      - cell "-0.96%" [ref=e923]
+                      - cell "1.04%" [ref=e924]
+                    - row "瑞士SMI 12813.20 -26.07 -0.20% 0.83%" [ref=e925]:
+                      - cell "瑞士SMI" [ref=e926]:
+                        - img [ref=e927]
+                        - link "瑞士SMI" [ref=e928] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.SSMI
+                      - cell "12813.20" [ref=e929]
+                      - cell "-26.07" [ref=e930]
+                      - cell "-0.20%" [ref=e931]
+                      - cell "0.83%" [ref=e932]
+                    - row "德国DAX30 23514.38 67.09 0.29% 0.79%" [ref=e933]:
+                      - cell "德国DAX30" [ref=e934]:
+                        - img [ref=e935]
+                        - link "德国DAX30" [ref=e936] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.GDAXI
+                      - cell "23514.38" [ref=e937]
+                      - cell "67.09" [ref=e938]
+                      - cell "0.29%" [ref=e939]
+                      - cell "0.79%" [ref=e940]
+                    - row "比利时BFX 5115.72 6.24 0.12% 0.87%" [ref=e941]:
+                      - cell "比利时BFX" [ref=e942]:
+                        - img [ref=e943]
+                        - link "比利时BFX" [ref=e944] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.BFX
+                      - cell "5115.72" [ref=e945]
+                      - cell "6.24" [ref=e946]
+                      - cell "0.12%" [ref=e947]
+                      - cell "0.87%" [ref=e948]
+                    - row "荷兰AEX 1006.12 4.46 0.45% 0.66%" [ref=e949]:
+                      - cell "荷兰AEX" [ref=e950]:
+                        - img [ref=e951]
+                        - link "荷兰AEX" [ref=e952] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.AEX
+                      - cell "1006.12" [ref=e953]
+                      - cell "4.46" [ref=e954]
+                      - cell "0.45%" [ref=e955]
+                      - cell "0.66%" [ref=e956]
+                    - row "西班牙IBEX35 17075.10 15.80 0.09% 1.30%" [ref=e957]:
+                      - cell "西班牙IBEX35" [ref=e958]:
+                        - img [ref=e959]
+                        - link "西班牙IBEX35" [ref=e960] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.IBEX
+                      - cell "17075.10" [ref=e961]
+                      - cell "15.80" [ref=e962]
+                      - cell "0.09%" [ref=e963]
+                      - cell "1.30%" [ref=e964]
+                    - row "法国CAC40 7912.39 0.86 0.01% 0.97%" [ref=e965]:
+                      - cell "法国CAC40" [ref=e966]:
+                        - img [ref=e967]
+                        - link "法国CAC40" [ref=e968] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.FCHI
+                      - cell "7912.39" [ref=e969]
+                      - cell "0.86" [ref=e970]
+                      - cell "0.01%" [ref=e971]
+                      - cell "0.97%" [ref=e972]
+                    - row "芬兰赫尔辛基 12900.45 68.89 0.54% 0.64%" [ref=e973]:
+                      - cell "芬兰赫尔辛基" [ref=e974]:
+                        - img [ref=e975]
+                        - link "芬兰赫尔辛基" [ref=e976] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.HEX
+                      - cell "12900.45" [ref=e977]
+                      - cell "68.89" [ref=e978]
+                      - cell "0.54%" [ref=e979]
+                      - cell "0.64%" [ref=e980]
+                    - row "富时意大利MIB 44227.01 -89.91 -0.20% 1.43%" [ref=e981]:
+                      - cell "富时意大利MIB" [ref=e982]:
+                        - img [ref=e983]
+                        - link "富时意大利MIB" [ref=e984] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.MIB
+                      - cell "44227.01" [ref=e985]
+                      - cell "-89.91" [ref=e986]
+                      - cell "-0.20%" [ref=e987]
+                      - cell "1.43%" [ref=e988]
+                    - row "爱尔兰综合 12334.18 -59.53 -0.48% 1.41%" [ref=e989]:
+                      - cell "爱尔兰综合" [ref=e990]:
+                        - img [ref=e991]
+                        - link "爱尔兰综合" [ref=e992] [cursor=pointer]:
+                          - /url: https://quote.eastmoney.com/unify/r/100.ISEQ
+                      - cell "12334.18" [ref=e993]
+                      - cell "-59.53" [ref=e994]
+                      - cell "-0.48%" [ref=e995]
+                      - cell "1.41%" [ref=e996]
+                  - rowgroup
+                - link "点击查看全部欧洲股市>>" [ref=e998] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist.html#global_euro
+        - generic [ref=e999]:
+          - link "全球重要期指" [ref=e1002] [cursor=pointer]:
+            - /url: //quote.eastmoney.com/center/gridlist.html#futures_finance
+          - table [ref=e1005]:
+            - rowgroup [ref=e1006]:
+              - row "代码 品种 最新 涨跌幅" [ref=e1007]:
+                - cell "代码" [ref=e1008]
+                - cell "品种" [ref=e1009]
+                - cell "最新" [ref=e1010]
+                - cell "涨跌幅" [ref=e1011]
+            - rowgroup [ref=e1012]:
+              - row "CN00Y A50期指当月连续 14885.0 0.01%" [ref=e1013]:
+                - cell "CN00Y" [ref=e1014]:
+                  - link "CN00Y" [ref=e1015] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/104.CN00Y
+                - cell "A50期指当月连续" [ref=e1016]:
+                  - link "A50期指当月连续" [ref=e1017] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/104.CN00Y
+                - cell "14885.0" [ref=e1018]
+                - cell "0.01%" [ref=e1019]
+              - row "YM00Y 小型道指当月连续 46862 0.58%" [ref=e1020]:
+                - cell "YM00Y" [ref=e1021]:
+                  - link "YM00Y" [ref=e1022] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/103.YM00Y
+                - cell "小型道指当月连续" [ref=e1023]:
+                  - link "小型道指当月连续" [ref=e1024] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/103.YM00Y
+                - cell "46862" [ref=e1025]
+                - cell "0.58%" [ref=e1026]
+              - row "ES00Y 小型标普当月连续 6687.22 0.77%" [ref=e1027]:
+                - cell "ES00Y" [ref=e1028]:
+                  - link "ES00Y" [ref=e1029] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/103.ES00Y
+                - cell "小型标普当月连续" [ref=e1030]:
+                  - link "小型标普当月连续" [ref=e1031] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/103.ES00Y
+                - cell "6687.22" [ref=e1032]
+                - cell "0.77%" [ref=e1033]
+              - row "NQ00Y 小型纳指当月连续 24624.08 0.94%" [ref=e1034]:
+                - cell "NQ00Y" [ref=e1035]:
+                  - link "NQ00Y" [ref=e1036] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/103.NQ00Y
+                - cell "小型纳指当月连续" [ref=e1037]:
+                  - link "小型纳指当月连续" [ref=e1038] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/103.NQ00Y
+                - cell "24624.08" [ref=e1039]
+                - cell "0.94%" [ref=e1040]
+              - row "IFM 沪深主连 4662.8 0.06%" [ref=e1041]:
+                - cell "IFM" [ref=e1042]:
+                  - link "IFM" [ref=e1043] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/220.IFM
+                - cell "沪深主连" [ref=e1044]:
+                  - link "沪深主连" [ref=e1045] [cursor=pointer]:
+                    - /url: https://quote.eastmoney.com/unify/r/220.IFM
+                - cell "4662.8" [ref=e1046]
+                - cell "0.06%" [ref=e1047]
+            - rowgroup
+        - generic [ref=e1048]:
+          - generic [ref=e1049]:
+            - list:
+              - listitem [ref=e1050]:
+                - link "国际期货" [ref=e1051] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist.html#futures_global
+              - listitem [ref=e1052]:
+                - link "国内期货" [ref=e1053] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist2.html#futures_113
+          - generic [ref=e1055]:
+            - generic [ref=e1056]:
+              - link [ref=e1057] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/102.CL00Y
+                - img [ref=e1058]
+              - link [ref=e1059] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/112.B00Y
+                - img [ref=e1060]
+              - link [ref=e1061] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/101.GC00Y
+                - img [ref=e1062]
+              - link [ref=e1063] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/101.HG00Y
+                - img [ref=e1064]
+            - table [ref=e1066]:
+              - rowgroup [ref=e1067]:
+                - row "品种 最新价 涨跌额 涨跌幅" [ref=e1068]:
+                  - cell "品种" [ref=e1069]
+                  - cell "最新价" [ref=e1070]
+                  - cell "涨跌额" [ref=e1071]
+                  - cell "涨跌幅" [ref=e1072]
+              - rowgroup [ref=e1073]:
+                - row "玉米当月连续 461.75 -5.50 -1.18%" [ref=e1074]:
+                  - cell "玉米当月连续" [ref=e1075]:
+                    - link "玉米当月连续" [ref=e1076] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/103.ZC00Y
+                  - cell "461.75" [ref=e1077]
+                  - cell "-5.50" [ref=e1078]
+                  - cell "-1.18%" [ref=e1079]
+                - row "小麦当月连续 607.00 -6.75 -1.10%" [ref=e1080]:
+                  - cell "小麦当月连续" [ref=e1081]:
+                    - link "小麦当月连续" [ref=e1082] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/103.ZW00Y
+                  - cell "607.00" [ref=e1083]
+                  - cell "-6.75" [ref=e1084]
+                  - cell "-1.10%" [ref=e1085]
+                - row "NYMEX汽油 2.9961 0.0045 0.15%" [ref=e1086]:
+                  - cell "NYMEX汽油" [ref=e1087]:
+                    - link "NYMEX汽油" [ref=e1088] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/102.RB00Y
+                  - cell "2.9961" [ref=e1089]
+                  - cell "0.0045" [ref=e1090]
+                  - cell "0.15%" [ref=e1091]
+                - row "天然气 3.095 -0.036 -1.15%" [ref=e1092]:
+                  - cell "天然气" [ref=e1093]:
+                    - link "天然气" [ref=e1094] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/102.NG00Y
+                  - cell "3.095" [ref=e1095]
+                  - cell "-0.036" [ref=e1096]
+                  - cell "-1.15%" [ref=e1097]
+                - row "COMEX白银 79.415 -1.928 -2.37%" [ref=e1098]:
+                  - cell "COMEX白银" [ref=e1099]:
+                    - link "COMEX白银" [ref=e1100] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/101.SI00Y
+                  - cell "79.415" [ref=e1101]
+                  - cell "-1.928" [ref=e1102]
+                  - cell "-2.37%" [ref=e1103]
+                - row "NYMEX铂金 2054.0 11.9 0.58%" [ref=e1104]:
+                  - cell "NYMEX铂金" [ref=e1105]:
+                    - link "NYMEX铂金" [ref=e1106] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/102.PL00Y
+                  - cell "2054.0" [ref=e1107]
+                  - cell "11.9" [ref=e1108]
+                  - cell "0.58%" [ref=e1109]
+                - row "2年美国债当月连续 103.9805 0.0899 0.09%" [ref=e1110]:
+                  - cell "2年美国债当月连续" [ref=e1111]:
+                    - link "2年美国债当月连续" [ref=e1112] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/103.TU00Y
+                  - cell "103.9805" [ref=e1113]
+                  - cell "0.0899" [ref=e1114]
+                  - cell "0.09%" [ref=e1115]
+                - row "5年美国债当月连续 108.6719 0.1953 0.18%" [ref=e1116]:
+                  - cell "5年美国债当月连续" [ref=e1117]:
+                    - link "5年美国债当月连续" [ref=e1118] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/103.FV00Y
+                  - cell "108.6719" [ref=e1119]
+                  - cell "0.1953" [ref=e1120]
+                  - cell "0.18%" [ref=e1121]
+                - row "10年美国债当月连续 111.6719 0.2656 0.24%" [ref=e1122]:
+                  - cell "10年美国债当月连续" [ref=e1123]:
+                    - link "10年美国债当月连续" [ref=e1124] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/103.TY00Y
+                  - cell "111.6719" [ref=e1125]
+                  - cell "0.2656" [ref=e1126]
+                  - cell "0.24%" [ref=e1127]
+              - rowgroup
+            - link "点击查看全部国际期货>>" [ref=e1129] [cursor=pointer]:
+              - /url: http://quote.eastmoney.com/center/gridlist.html#futures_global
+        - generic [ref=e1130]:
+          - generic [ref=e1131]:
+            - list:
+              - listitem [ref=e1132]:
+                - link "实时汇率" [ref=e1133] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/whsc.html
+              - listitem [ref=e1134]:
+                - link "人民币中间价" [ref=e1135] [cursor=pointer]:
+                  - /url: http://quote.eastmoney.com/center/gridlist.html#forex_cnyc
+          - generic [ref=e1137]:
+            - generic [ref=e1138]:
+              - link [ref=e1139] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/100.UDI
+                - img [ref=e1140]
+              - link [ref=e1141] [cursor=pointer]:
+                - /url: http://quote.eastmoney.com/unify/r/133.USDCNH
+                - img [ref=e1142]
+            - table [ref=e1144]:
+              - rowgroup [ref=e1145]:
+                - row "代码 品种 最新价 涨跌额 涨跌幅" [ref=e1146]:
+                  - cell "代码" [ref=e1147]
+                  - cell "品种" [ref=e1148]
+                  - cell "最新价" [ref=e1149]
+                  - cell "涨跌额" [ref=e1150]
+                  - cell "涨跌幅" [ref=e1151]
+              - rowgroup [ref=e1152]:
+                - row "EURUSD 欧元兑美元 1.1480 0.0064 0.56%" [ref=e1153]:
+                  - cell "EURUSD" [ref=e1154]:
+                    - link "EURUSD" [ref=e1155] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.EURUSD
+                  - cell "欧元兑美元" [ref=e1156]:
+                    - link "欧元兑美元" [ref=e1157] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.EURUSD
+                  - cell "1.1480" [ref=e1158]
+                  - cell "0.0064" [ref=e1159]
+                  - cell "0.56%" [ref=e1160]
+                - row "USDJPY 美元兑日元 159.1155 -0.6195 -0.39%" [ref=e1161]:
+                  - cell "USDJPY" [ref=e1162]:
+                    - link "USDJPY" [ref=e1163] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.USDJPY
+                  - cell "美元兑日元" [ref=e1164]:
+                    - link "美元兑日元" [ref=e1165] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.USDJPY
+                  - cell "159.1155" [ref=e1166]
+                  - cell "-0.6195" [ref=e1167]
+                  - cell "-0.39%" [ref=e1168]
+                - row "GBPUSD 英镑兑美元 1.3279 0.0055 0.42%" [ref=e1169]:
+                  - cell "GBPUSD" [ref=e1170]:
+                    - link "GBPUSD" [ref=e1171] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.GBPUSD
+                  - cell "英镑兑美元" [ref=e1172]:
+                    - link "英镑兑美元" [ref=e1173] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.GBPUSD
+                  - cell "1.3279" [ref=e1174]
+                  - cell "0.0055" [ref=e1175]
+                  - cell "0.42%" [ref=e1176]
+                - row "AUDUSD 澳元兑美元 0.7049 0.0068 0.97%" [ref=e1177]:
+                  - cell "AUDUSD" [ref=e1178]:
+                    - link "AUDUSD" [ref=e1179] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.AUDUSD
+                  - cell "澳元兑美元" [ref=e1180]:
+                    - link "澳元兑美元" [ref=e1181] [cursor=pointer]:
+                      - /url: https://quote.eastmoney.com/unify/r/119.AUDUSD
+                  - cell "0.7049" [ref=e1182]
+                  - cell "0.0068" [ref=e1183]
+                  - cell "0.97%" [ref=e1184]
+              - rowgroup
+            - link "点击查看全部实时汇率>>" [ref=e1186] [cursor=pointer]:
+              - /url: //quote.eastmoney.com/center/whsc.html
+  - iframe [ref=e1187]:
+    - generic [ref=f11e2]:
+      - generic [ref=f11e3]:
+        - generic [ref=f11e4]:
+          - link "东方财富" [ref=f11e6] [cursor=pointer]:
+            - /url: http://acttg.eastmoney.com/pub/web_dfcfsy_dbtg_wzl_01_01_01_1
+          - link [ref=f11e7] [cursor=pointer]:
+            - /url: http://acttg.eastmoney.com/pub/web_app_dcsy_2wm_01_01_01_0
+            - emphasis [ref=f11e8]
+          - text: 扫一扫下载APP
+        - generic [ref=f11e9]:
+          - generic [ref=f11e10]: 东方财富产品
+          - list [ref=f11e11]:
+            - listitem [ref=f11e12]:
+              - link "东方财富免费版" [ref=f11e13] [cursor=pointer]:
+                - /url: https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwmfb_01_01_01_0
+            - listitem [ref=f11e14]:
+              - link "东方财富Level-2" [ref=f11e15] [cursor=pointer]:
+                - /url: https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwl2_01_01_01_0
+            - listitem [ref=f11e16]:
+              - link "东方财富策略版" [ref=f11e17] [cursor=pointer]:
+                - /url: https://www.dfcfw.com/CLB/
+            - listitem [ref=f11e18]:
+              - link "妙想投研助理" [ref=f11e19] [cursor=pointer]:
+                - /url: https://acttg.eastmoney.com/pub/web_dfcfsy_wzl_bottom_02_02_04_1
+            - listitem [ref=f11e20]:
+              - link "Choice金融终端" [ref=f11e21] [cursor=pointer]:
+                - /url: https://choice.eastmoney.com/terminal?adid=web_choice_dcsy_website_02_01_01_0
+        - generic [ref=f11e22]:
+          - generic [ref=f11e23]: 证券交易
+          - list [ref=f11e24]:
+            - listitem [ref=f11e25]:
+              - link "东方财富证券开户" [ref=f11e26] [cursor=pointer]:
+                - /url: https://acttg.eastmoney.com/pub/web_kh_dcsy_dbtkwzl_01_01_01_0
+            - listitem [ref=f11e27]:
+              - link "东方财富在线交易" [ref=f11e28] [cursor=pointer]:
+                - /url: https://jywg.18.cn/Trade/Buy
+            - listitem [ref=f11e29]:
+              - link "东方财富证券交易" [ref=f11e30] [cursor=pointer]:
+                - /url: https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfzqjy_01_01_01_0
+        - generic [ref=f11e31]:
+          - generic [ref=f11e32]: 关注东方财富
+          - list [ref=f11e33]:
+            - listitem [ref=f11e34]:
+              - link "东方财富网微博" [ref=f11e35] [cursor=pointer]:
+                - /url: http://weibo.com/dfcfw
+                - emphasis [ref=f11e36]
+                - text: 东方财富网微博
+            - listitem [ref=f11e37]:
+              - link "东方财富网微信" [ref=f11e38] [cursor=pointer]:
+                - /url: javascript:;
+                - emphasis [ref=f11e39]
+                - text: 东方财富网微信
+            - listitem [ref=f11e40]:
+              - link "意见与建议" [ref=f11e41] [cursor=pointer]:
+                - /url: http://corp.eastmoney.com/Lianxi_liuyan.asp
+                - emphasis [ref=f11e42]
+                - text: 意见与建议
+        - generic [ref=f11e43]:
+          - link "天天基金" [ref=f11e45] [cursor=pointer]:
+            - /url: http://acttg.eastmoney.com/pub/web_ttjjsy_dbtg_wzl_01_01_01_1
+          - link [ref=f11e46] [cursor=pointer]:
+            - /url: http://js1.eastmoney.com/tg.aspx?ID=4672
+            - emphasis [ref=f11e47]
+          - text: 扫一扫下载APP
+        - generic [ref=f11e48]:
+          - generic [ref=f11e49]: 基金交易
+          - list [ref=f11e50]:
+            - listitem [ref=f11e51]:
+              - link "基金开户" [ref=f11e52] [cursor=pointer]:
+                - /url: https://trade6.1234567.com.cn/reg/step1
+            - listitem [ref=f11e53]:
+              - link "基金交易" [ref=f11e54] [cursor=pointer]:
+                - /url: https://trade.1234567.com.cn/login
+            - listitem [ref=f11e55]:
+              - link "活期宝" [ref=f11e56] [cursor=pointer]:
+                - /url: http://huoqibao.1234567.com.cn/
+            - listitem [ref=f11e57]:
+              - link "基金产品" [ref=f11e58] [cursor=pointer]:
+                - /url: http://fund.eastmoney.com/trade/default.html
+            - listitem [ref=f11e59]:
+              - link "稳健理财" [ref=f11e60] [cursor=pointer]:
+                - /url: http://fund.eastmoney.com/gslc/
+        - generic [ref=f11e61]:
+          - generic [ref=f11e62]: 关注天天基金
+          - list [ref=f11e63]:
+            - listitem [ref=f11e64]:
+              - link "天天基金网微博" [ref=f11e65] [cursor=pointer]:
+                - /url: http://weibo.com/ttfund
+                - emphasis [ref=f11e66]
+                - text: 天天基金网微博
+            - listitem [ref=f11e67]:
+              - link "天天基金网微信" [ref=f11e68] [cursor=pointer]:
+                - /url: javascript:;
+                - emphasis [ref=f11e69]
+                - text: 天天基金网微信
+        - generic [ref=f11e70]:
+          - link "东方财富期货" [ref=f11e72] [cursor=pointer]:
+            - /url: https://qs.dfcfw.com/1605
+          - link [ref=f11e73] [cursor=pointer]:
+            - /url: http://acttg.eastmoney.com/pub/web_kh_dcsy_dibudfcfqh_01_01_01_1
+            - emphasis [ref=f11e74]
+          - text: 扫一扫下载APP
+        - generic [ref=f11e75]:
+          - generic [ref=f11e76]: 期货交易
+          - list [ref=f11e77]:
+            - listitem [ref=f11e78]:
+              - link "期货手机开户" [ref=f11e79] [cursor=pointer]:
+                - /url: https://qs.dfcfw.com/1606
+            - listitem [ref=f11e80]:
+              - link "期货电脑开户" [ref=f11e81] [cursor=pointer]:
+                - /url: https://qs.dfcfw.com/1607
+            - listitem [ref=f11e82]:
+              - link "期货官方网站" [ref=f11e83] [cursor=pointer]:
+                - /url: https://qs.dfcfw.com/1608
+      - generic [ref=f11e84]:
+        - text: 信息网络传播视听节目许可证：0908328号 经营证券期货业务许可证编号：913101046312860336 违法和不良信息举报:021-61278686 举报邮箱：
+        - link "jubao@eastmoney.com" [ref=f11e85] [cursor=pointer]:
+          - /url: mailto:jubao@eastmoney.com
+      - generic [ref=f11e86]:
+        - emphasis [ref=f11e87]
+        - text: 沪ICP证:沪B2-20070217
+        - link "网站备案号:沪ICP备05006054号-11" [ref=f11e88] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/
+        - link "沪公网安备 31010402000120号" [ref=f11e89] [cursor=pointer]:
+          - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000120
+          - emphasis [ref=f11e90]
+          - text: 沪公网安备 31010402000120号
+        - text: 版权所有:东方财富网 意见与建议:4000300059/952500
+      - generic [ref=f11e91]:
+        - link "关于我们" [ref=f11e92] [cursor=pointer]:
+          - /url: http://about.eastmoney.com
+        - link "可持续发展" [ref=f11e93] [cursor=pointer]:
+          - /url: https://about.eastmoney.com/about/sdindex
+        - link "广告服务" [ref=f11e94] [cursor=pointer]:
+          - /url: http://emhd2.eastmoney.com/market
+        - link "供应商平台" [ref=f11e95] [cursor=pointer]:
+          - /url: https://srm.eastmoney.com/official-site/
+        - link "联系我们" [ref=f11e96] [cursor=pointer]:
+          - /url: http://about.eastmoney.com/home/contact
+        - link "诚聘英才" [ref=f11e97] [cursor=pointer]:
+          - /url: https://zhaopin.eastmoney.com/
+        - link "法律声明" [ref=f11e98] [cursor=pointer]:
+          - /url: http://about.eastmoney.com/home/legal
+        - link "隐私保护" [ref=f11e99] [cursor=pointer]:
+          - /url: http://about.eastmoney.com/home/conceal
+        - link "征稿启事" [ref=f11e100] [cursor=pointer]:
+          - /url: http://about.eastmoney.com/home/parper
+        - link "友情链接" [ref=f11e101] [cursor=pointer]:
+          - /url: http://about.eastmoney.com/home/links
+      - generic [ref=f11e102]:
+        - img "亲爱的市民朋友，上海警方反诈劝阻电 话“962110”系专门针对避免您财产被 骗受损而设，请您一旦收到来电，立即 接听。" [ref=f11e103]
+        - generic "上海网警网络110" [ref=f11e104]
+        - generic "网络社会征信网" [ref=f11e105]
+        - link "上海违法和违规信息举报中心" [ref=f11e106] [cursor=pointer]:
+          - /url: http://www.shjbzx.cn/
+        - link "中国互联网违法和不良信息举报中心" [ref=f11e107] [cursor=pointer]:
+          - /url: http://www.12377.cn
+  - generic [ref=e1188]:
+    - generic:
+      - generic [ref=e1189]:
+        - link "网站首页" [ref=e1190] [cursor=pointer]:
+          - /url: http://www.eastmoney.com/
+        - link "加收藏" [ref=e1191] [cursor=pointer]:
+          - /url: javascript:;
+        - link "移动客户端" [ref=e1193] [cursor=pointer]:
+          - /url: http://js5.eastmoney.com/tg.aspx?ID=431
+        - link "东方财富" [ref=e1195] [cursor=pointer]:
+          - /url: https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfpcb_01_01_01_0
+        - link "天天基金网" [ref=e1197] [cursor=pointer]:
+          - /url: http://fund.eastmoney.com/
+        - link "东方财富证券" [ref=e1199] [cursor=pointer]:
+          - /url: http://acttg.eastmoney.com/pub/web_kh_dcsy_jycdl_01_01_01_1
+        - link "东方财富期货" [ref=e1201] [cursor=pointer]:
+          - /url: http://www.eastmoneyfutures.com/
+        - link "妙想" [ref=e1203] [cursor=pointer]:
+          - /url: https://acttg.eastmoney.com/pub/web_dfcfsy_dbtg_01_05_01_01_1
+        - link "Choice数据" [ref=e1205] [cursor=pointer]:
+          - /url: http://js5.eastmoney.com/tg.aspx?ID=789
+        - link "股吧" [ref=e1207] [cursor=pointer]:
+          - /url: http://guba.eastmoney.com/
+      - generic [ref=e1208]:
+        - link "登录" [ref=e1210] [cursor=pointer]:
+          - /url: https://passport2.eastmoney.com/pub/login?backurl=https%3A//kuaixun.eastmoney.com/
+        - link "我的菜单" [ref=e1212] [cursor=pointer]:
+          - /url: http://i.eastmoney.com
+        - link "证券交易" [ref=e1214] [cursor=pointer]:
+          - /url: https://jy.xzsec.com/Trade/Buy
+        - link "基金交易" [ref=e1216] [cursor=pointer]:
+          - /url: https://trade.1234567.com.cn/Login
+  - generic [ref=e1217]:
+    - list [ref=e1218]:
+      - listitem [ref=e1219]: 动态
+      - listitem [ref=e1222]: 个人
+      - listitem [ref=e1225]: 自选
+      - listitem [ref=e1228]: 消息
+      - listitem [ref=e1231]: 搜索
+    - list [ref=e1234]:
+      - listitem "设置" [ref=e1235]
+      - listitem [ref=e1237]:
+        - link "涉企 举报" [ref=e1238] [cursor=pointer]:
+          - /url: https://help.eastmoney.com/more_info.html?pagetype=9
+          - text: 涉企
+          - text: 举报
+      - listitem [ref=e1239]:
+        - link "意见 反馈" [ref=e1240] [cursor=pointer]:
+          - /url: http://corp.eastmoney.com/liuyan.html
+          - text: 意见
+          - text: 反馈
+      - listitem [ref=e1241]
+      - listitem [ref=e1243]:
+        - generic [ref=e1244]:
+          - text: 回到
+          - text: 顶部
