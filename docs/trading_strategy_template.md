@@ -26,6 +26,7 @@
 
 默认发布规则：
 - 默认使用 `scripts/publish_to_github.ps1` 发布分析产物到 GitHub
+- Windows 下优先双击根目录的 `publish.bat` 执行发布
 - 发布范围默认限定为 `docs/`、`reports/`、`artifacts/` 与发布脚本本身
 - 不默认发布工作区里的临时测试文件、无关素材或历史实验文件
 - 使用方式：`powershell -ExecutionPolicy Bypass -File .\\scripts\\publish_to_github.ps1`
